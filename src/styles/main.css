@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.image-card {
+    height: 50vh;
+    width: 50%;
+    background-image: url(../asset/img/WhatsApp\ Image\ 2023-02-10\ at\ 21.23.44.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
